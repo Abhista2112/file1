@@ -1,0 +1,75 @@
+E-learning Dengan Laravel dan Vuejs.
+
+Sangat cocok untuk Instansi Pendidikan yang ingin menggunakan metode pembelajaran online, ataupun 
+perorangan yang ingin membuka online learning course sendiri.
+
+Requirement:
+- Laravel 7.6.1
+- VueJs
+- Mysql
+- CoreUI Admin
+
+Level User:
+- Administrator
+- Teacher (Guru) 
+- Student (Siswa)
+
+Fitur Administrator :
+---------------------------------------------------
+- Menu ( untuk custom menu di front end )
+- Page ( untuk custom page di front end )
+- Blog (Artikel)
+- Category Blog
+- Event
+- Gallery 
+- Testimoni
+- Message
+- Setting Instansi
+- Setting Fasilitas Instansi
+- Setting Video Instansi
+- Setting Social Media Instansi
+- Seting Main Slider di halaman Home
+- User Management & RBAC
+
+Fitur Teacher :
+-----------------------------------------------------
+- Membuat Kelas / Kursus baru
+- Mengupload Materi dalam kelas
+- Menambah siswa untuk bergabung di dalam kelas
+- Menghapus siswa dari kelas
+
+Fitur Student :
+-----------------------------------------------------
+- Melihat daftar kelas
+- Join Kelas 
+- Mendownload materi yang ada di dalam kelas
+
+Link Demo : http://elearning.potji.com/
+
+Administrator:
+-------------------------
+Username : admin.course@gmail.com
+Password : welcome
+
+Teacher:
+-------------------------
+Username : dadap92@gmail.com
+Password : welcome123
+
+Student:
+-------------------------------
+Username : hsaefullah@rajasa.ac.id
+Password : welcome123
+
+Username : rosman28@yahoo.com
+Password : welcome123
+
+Username : mala17@yahoo.com
+Password : welcome123
+
+Username : darmaji.winarno@suwarno.go.id
+Password : welcome123
+
+Jika anda tertarik, silahkan inbox untuk harga nya.
+
+Terima Kasih
